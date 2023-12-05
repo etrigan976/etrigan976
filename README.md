@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @etrigan976
-- 👀 I’m interested in Computer Science, web development, and game design
-- 🌱 I’m currently learning HTML, CSS, Javascript, C++, and Java
+- 👀 I’m interested in Computer Science, and Data Structures along with Software Methodologies
+- 🌱 I’m currently learning C++, Java and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
